@@ -1,6 +1,8 @@
 Here’s a sample README.md file for your React Router DOM-based project. You can place this file in the root directory of your project (next to package.json):
-Nmae:Prema Latha S
+```
+Name:Prema Latha S
 Reg no:212222230112
+```
 # ✅ README.md
 
 # React Router DOM Project
